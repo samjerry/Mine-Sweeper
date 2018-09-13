@@ -214,6 +214,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &35267571
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -351,6 +352,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &50403405
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -488,6 +490,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &73236979
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -625,6 +628,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &85528545
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -762,6 +766,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &86270600
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -899,6 +904,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &91365798
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1036,6 +1042,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &92384146
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1173,6 +1180,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &101129976
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1310,6 +1318,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &128226969
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1447,6 +1456,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &130594211
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1584,6 +1594,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &146314725
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1721,6 +1732,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &196046232
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1858,6 +1870,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &228922279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1995,6 +2008,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &232986437
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2132,6 +2146,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &250959881
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2269,6 +2284,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &250966135
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2406,6 +2422,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &251042461
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2543,6 +2560,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &258232730
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2680,6 +2698,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &259001605
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2817,6 +2836,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &285865593
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2954,6 +2974,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &311959385
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3091,6 +3112,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &321410888
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3228,6 +3250,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &322348145
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3365,6 +3388,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &322505089
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3502,6 +3526,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &322601337
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3639,6 +3664,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &330875885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3776,6 +3802,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &331064885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3913,6 +3940,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &342214786
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4050,6 +4078,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &360463933
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4187,6 +4216,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &367445560
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4324,6 +4354,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &379511941
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4461,6 +4492,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &418950130
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4598,6 +4630,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &446052634
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4893,6 +4926,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &481171440
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5030,6 +5064,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &506773226
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5167,6 +5202,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &508954068
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5381,6 +5417,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &576076450
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5518,6 +5555,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &605942619
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5655,6 +5693,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &661926499
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5792,6 +5831,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &695346818
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5929,6 +5969,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &709357529
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6066,6 +6107,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &711035570
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6203,6 +6245,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &714720865
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6340,6 +6383,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &716337627
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6477,6 +6521,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &732312928
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6614,6 +6659,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &733115104
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6751,6 +6797,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &749196812
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6888,6 +6935,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &778938964
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7025,6 +7073,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &831066116
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7162,6 +7211,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &834072510
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7299,6 +7349,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &908717582
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7436,6 +7487,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &909004068
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7573,6 +7625,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &922218722
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7710,6 +7763,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &958727411
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7847,6 +7901,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &991741724
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7984,6 +8039,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1006956742
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8121,6 +8177,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1013007385
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8258,6 +8315,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1019515918
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8395,6 +8453,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1044264998
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8532,6 +8591,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1069055082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8669,6 +8729,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1071296841
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8705,6 +8766,83 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceff97adbd0694428a888b25b8475f6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1074345116
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1074345117}
+  - component: {fileID: 1074345119}
+  - component: {fileID: 1074345118}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1074345117
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1074345116}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1952210532}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 46, y: -25.4}
+  m_SizeDelta: {x: 219.39, y: 87.27}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1074345118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1074345116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 30
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 119
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 0
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Victory!
+
+'
+--- !u!222 &1074345119
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1074345116}
+  m_CullTransparentMesh: 0
 --- !u!1 &1075866510
 GameObject:
   m_ObjectHideFlags: 0
@@ -8806,6 +8944,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1075866514
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8943,6 +9082,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1096713249
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9080,6 +9220,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1107781701
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9217,6 +9358,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1115177337
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9354,6 +9496,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1119121656
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9491,6 +9634,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1140750189
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9628,6 +9772,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1171195124
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9765,6 +9910,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1190481535
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9902,6 +10048,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1191316168
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10039,6 +10186,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1201036957
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10176,6 +10324,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1217330099
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10212,6 +10361,68 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceff97adbd0694428a888b25b8475f6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1228728670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1228728673}
+  - component: {fileID: 1228728672}
+  - component: {fileID: 1228728671}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1228728671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1228728670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1228728672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1228728670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1228728673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1228728670}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1236781374
 GameObject:
   m_ObjectHideFlags: 0
@@ -10313,6 +10524,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1236781378
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10450,6 +10662,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1238897519
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10587,6 +10800,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1261032780
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10724,6 +10938,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1271203565
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10861,6 +11076,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1309954087
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10998,6 +11214,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1316254513
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11135,6 +11352,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1351718282
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11272,6 +11490,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1355323647
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11409,6 +11628,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1376834606
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11546,6 +11766,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1385486968
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11683,6 +11904,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1393322696
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11820,6 +12042,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1398201711
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11957,6 +12180,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1403535373
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12094,6 +12318,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1432767147
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12231,6 +12456,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1474705466
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12368,6 +12594,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1475886848
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12505,6 +12732,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1483416224
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12642,6 +12870,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1496559668
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12779,6 +13008,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1535425935
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12916,6 +13146,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1547744190
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13053,6 +13284,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1555804337
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13190,6 +13422,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1563641442
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13226,6 +13459,100 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceff97adbd0694428a888b25b8475f6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1571688319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1571688323}
+  - component: {fileID: 1571688322}
+  - component: {fileID: 1571688321}
+  - component: {fileID: 1571688320}
+  m_Layer: 5
+  m_Name: Win screen
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1571688320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1571688319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1571688321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1571688319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &1571688322
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1571688319}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 1
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1571688323
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1571688319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 1952210532}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1613926745
 GameObject:
   m_ObjectHideFlags: 0
@@ -13327,6 +13654,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1613926749
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13464,6 +13792,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1622796199
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13601,6 +13930,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1661510669
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13738,6 +14068,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1705077500
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13875,6 +14206,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1711254533
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14012,6 +14344,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1717094653
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14149,6 +14482,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1732503126
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14286,6 +14620,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1735217493
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14423,6 +14758,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1748130921
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14560,6 +14896,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1777894787
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14697,6 +15034,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1778954905
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14834,6 +15172,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1785019160
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14971,6 +15310,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1805825423
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15108,6 +15448,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1807714720
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15245,6 +15586,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1837143128
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15382,6 +15724,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1842073529
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15519,6 +15862,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1852262588
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15656,6 +16000,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1854127667
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15793,6 +16138,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1857304826
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15930,6 +16276,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1896546452
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16067,6 +16414,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1916566062
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16204,6 +16552,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1918855891
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16341,6 +16690,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1922252454
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16478,6 +16828,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1933789012
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16615,6 +16966,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1942145335
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16752,6 +17104,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1945501848
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16788,6 +17141,76 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceff97adbd0694428a888b25b8475f6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1952210531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1952210532}
+  - component: {fileID: 1952210534}
+  - component: {fileID: 1952210533}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1952210532
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1952210531}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1074345117}
+  m_Father: {fileID: 1571688323}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0.00023651}
+  m_SizeDelta: {x: 800, y: 499.47}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1952210533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1952210531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.8117647}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1952210534
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1952210531}
+  m_CullTransparentMesh: 0
 --- !u!1 &1964349331
 GameObject:
   m_ObjectHideFlags: 0
@@ -16889,6 +17312,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1964349335
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17026,6 +17450,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1981413561
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17163,6 +17588,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1983217003
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17300,6 +17726,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &1986066804
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17437,6 +17864,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2001160715
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17574,6 +18002,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2065894233
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17711,6 +18140,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2115922545
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17848,6 +18278,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2117484609
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17985,6 +18416,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2120393240
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18122,6 +18554,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5ac77850f9680478e952ffca7643525a, type: 3}
   - {fileID: 21300000, guid: 585db750c87da4719b57d365c8337d01, type: 3}
   _mineTexture: {fileID: 21300000, guid: 7ba2b38eb6648414ea1560a5222de903, type: 3}
+  _wScreen: {fileID: 1571688319}
 --- !u!61 &2133612882
 BoxCollider2D:
   m_ObjectHideFlags: 0
