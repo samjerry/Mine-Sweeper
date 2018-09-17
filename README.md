@@ -5,7 +5,7 @@ The main idea of this project was to try and work with the Flood Fill Algorithm.
 
 ## Features
 
-- [Flood Fill Algoritme](link)
+- [Flood Fill Algoritme](https://en.wikipedia.org/wiki/Flood_fill)
 
 ## Things I learned
 
