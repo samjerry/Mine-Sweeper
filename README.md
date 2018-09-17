@@ -3,6 +3,10 @@
 This is a project I made which uses a Flood Fill Algorithm to re-create the game Minesweeper.
 The main idea of this project was to try and work with the Flood Fill Algorithm.
 
+## Features
+
+- [Flood Fill Algoritme](link)
+
 ## Things I learned
 
 the different things you are able to do with a Flood Fill Algorithm. 
